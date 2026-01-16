@@ -10,8 +10,8 @@ public class Application {
 	public static void main(String[] args) {
 
 		Dotenv dotenv = Dotenv.load();
-		System.setProperty("CLIENT_SECRET", dotenv.get("CLIENT_SECRET"));
-		System.out.println(dotenv.get("CLIENT_SECRET"));
+		System.setProperty("GITHUB_CLIENT_SECRET", dotenv.get("GITHUB_CLIENT_SECRET"));
+		System.setProperty("GOOGLE_CLIENT_SECRET", dotenv.get("GOOGLE_CLIENT_SECRET"));
 
 		SpringApplication.run(Application.class, args);
 	}
