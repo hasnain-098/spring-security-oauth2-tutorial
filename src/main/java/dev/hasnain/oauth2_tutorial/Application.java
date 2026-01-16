@@ -1,4 +1,4 @@
-package dev.hasnain.oauth_tutorial;
+package dev.hasnain.oauth2_tutorial;
 
 import io.github.cdimascio.dotenv.Dotenv;
 import org.springframework.boot.SpringApplication;

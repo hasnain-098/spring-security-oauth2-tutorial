@@ -1,4 +1,4 @@
-package dev.hasnain.oauth_tutorial.config;
+package dev.hasnain.oauth2_tutorial.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
