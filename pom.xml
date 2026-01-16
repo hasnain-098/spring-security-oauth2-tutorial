@@ -12,7 +12,7 @@
 	<artifactId>oauth-tutorial</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>oauth-tutorial</name>
-	<description>Demo project for Spring Boot</description>
+	<description>A Spring Boot project exploring OAuth 2.0 authentication using Spring Security, implemented while following a YouTube tutorial for learning purposes.</description>
 	<url/>
 	<licenses>
 		<license/>
